@@ -12,7 +12,7 @@ address = "Austin,Texas"
 email = "Oscarwei@utexas.edu"
 favicon = "/favicon.ico"
 firstName = "Oscar"
-lastName = "WeI"
+lastName = "Wei"
 phone = "512-922-1323"
 profileImage = "img/Oscar-wei.png"
 showEducation = true
@@ -20,7 +20,7 @@ showExperience = true
 showOpenSource = true
 showProjects = true
 showPublications = true
-showQr = true
+showQr = false
 showSkills = true
 
 [params.google]
