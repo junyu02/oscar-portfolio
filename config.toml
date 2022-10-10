@@ -10,7 +10,7 @@ enableGitInfo = false
 
 [params]
 address = "Austin,Texas"
-email = "Oscarwei@utexas.edu"
+email = "   Oscarwei@utexas.edu"
 favicon = "/favicon.ico"
 firstName = "Oscar"
 lastName = "Wei"
@@ -24,7 +24,8 @@ showPublications = true
 showQr = false
 showSkills = false
 
-[params.google]
+
+
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/junyu-wei-987584223/"

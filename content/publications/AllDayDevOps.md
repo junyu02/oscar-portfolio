@@ -1,18 +1,16 @@
 ---
-title: "I 310U project"
-date: 2022-05-08
-pubtype: "Design"
+title: "Data Rights Issues in Big Data Era "
+date: 2022-04-30
+pubtype: "Paper"
 featured: true
-description: "This is the App we designed to remind the user of the shelf life of the food in the refrigerator"
-tags: ["figma"]
-image: "/img/figma-i310u.jpg"
-link: "https://www.figma.com/proto/Yv7GcSj6bvEs09gh87e1AV/P4?node-id=2%3A314&starting-point-node-id=2%3A314"
-link: "https://docs.google.com/presentation/d/1YaPf9HSz6nVZ-JcxTDgE0v73oDdlsBJHQn6PA5JhHHU/edit?usp=sharing"
+description: "Discuss the ethical dilemma of informatics with respect to the ethics and privacy of data collection. As big data technologies become more and more prevalent, these algorithms are becoming more and more common, and with them our privacy is missing."
+tags: ["Critical Thinking","Ethics","Ethical dilemma"]
+image: "/img/paper.jpg"
+link: "https://docs.google.com/document/d/1B6eQJsWZt1bKSRixqp7axy_gmVIUL_pTVx2V-mJ5C18/edit?usp=sharing"
 fact: ""
 weight: 400
 sitemap:
   priority : 0.8
 ---
 
----
 
