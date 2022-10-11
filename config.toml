@@ -1,5 +1,5 @@
 title = "Oscar Wei"
-baseURL = "https://example.com/"
+baseURL = "https://junyu02.github.io/oscar-portfolio/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
