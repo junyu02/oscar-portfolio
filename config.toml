@@ -23,6 +23,7 @@ showProjects = false
 showPublications = true
 showQr = false
 showSkills = false
+relativeURLs = true
 
 
 
